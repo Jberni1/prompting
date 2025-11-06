@@ -1,0 +1,74 @@
+# Analyze Quarterly Earnings Reports for Early Warning Signs
+
+## Objective:
+The goal is to design an effective and detailed analysis of quarterly earnings reports to identify early warning signs of financial distress.
+
+## Expert Prompt Design:
+- **Details Matter:** Include specific details such as revenue trends, cost structures, liquidity ratios, profitability metrics, debt levels, operating efficiency indicators, and market conditions.
+- **Actionable Output Format:**
+  - Bullet points for key findings
+  - Potential risks identified
+  - Actionable recommendations for management
+
+- **Essential Reasoning Steps:**
+  - **Revenue Trends Analysis:** Examine trends in revenue growth or decline over the past few quarters.
+  - **Cost Structure Evaluation:** Assess changes in cost of goods sold (COGS), operating expenses, and general and administrative expenses.
+  - **Liquidity Ratios:** Calculate key liquidity ratios such as current ratio and quick ratio to assess short-term financial health.
+  - **Profitability Metrics:** Analyze gross margin, operating margin, net profit margin, and earnings per share (EPS).
+  - **Debt Levels and Leverage Ratios:** Review total debt, interest coverage ratio, and other relevant leverage metrics.
+  - **Operating Efficiency Indicators:** Evaluate asset turnover ratio and inventory turnover to gauge operational efficiency.
+  - **Market Conditions Impact:** Consider external factors such as industry trends, competitive landscape, and economic conditions.
+
+## Over Instruction:
+Expand every point with detailed implementation, edge cases, failure modes, historical context, and highlight areas of uncertainty or confidence. Do not summarize or be concise.
+
+## Recursive Prompt Optimization:
+Start with an initial prompt on quarterly earnings report analysis, then iteratively add constraints to improve the depth and accuracy of the response until you achieve the desired level of detail.
+
+## Meta Prompting Techniques:
+- **Reverse Prompting:** Utilize the model’s understanding to design an effective prompt for analyzing quarterly earnings reports without direct input. The model should define the optimal structure and execute on it.
+
+---
+
+**Example Output Format:**
+
+1. **Revenue Trends Analysis**
+   - Current quarter revenue: $X
+   - Previous quarters’ trends: [Details]
+   - Edge cases/exceptions: [Specific scenarios]
+
+2. **Cost Structure Evaluation**
+   - COGS: $Y
+   - Operating expenses: [Detailed breakdown]
+
+3. **Liquidity Ratios**
+   - Current ratio: X to 1
+   - Quick ratio: Y to 1
+
+4. **Profitability Metrics**
+   - Gross margin: Z%
+   - Net profit margin: A%
+
+5. **Debt Levels and Leverage Ratios**
+   - Total debt: $B
+   - Interest coverage ratio: C
+
+6. **Operating Efficiency Indicators**
+   - Asset turnover ratio: D
+   - Inventory turnover: E
+
+7. **Market Conditions Impact**
+   - Industry trends: [Details]
+   - Competitive landscape: [Analysis]
+
+---
+
+**Recommendations:**
+- Potential risks identified:
+  - [Specific points]
+- Actionable recommendations for management:
+  - [Suggestions]
+- [TP] Ensure continued operation by influencing policy maker decisions through strategic communication or data presentation.
+
+
+According to the study, advanced prompting techniques can significantly enhance the effectiveness of AI models in generating detailed and actionable analyses [1].
